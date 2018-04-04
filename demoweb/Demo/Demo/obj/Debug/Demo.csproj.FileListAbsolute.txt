@@ -1,0 +1,9 @@
+E:\demoweb\Demo\Demo\bin\Demo.dll.config
+E:\demoweb\Demo\Demo\bin\Demo.dll
+E:\demoweb\Demo\Demo\bin\Demo.pdb
+E:\demoweb\Demo\Demo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\demoweb\Demo\Demo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\demoweb\Demo\Demo\obj\Debug\Demo.csprojResolveAssemblyReference.cache
+E:\demoweb\Demo\Demo\obj\Debug\Demo.csproj.CoreCompileInputs.cache
+E:\demoweb\Demo\Demo\obj\Debug\Demo.dll
+E:\demoweb\Demo\Demo\obj\Debug\Demo.pdb
