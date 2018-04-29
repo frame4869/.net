@@ -7,3 +7,12 @@ E:\demoweb\Demo\Demo\obj\Debug\Demo.csprojResolveAssemblyReference.cache
 E:\demoweb\Demo\Demo\obj\Debug\Demo.csproj.CoreCompileInputs.cache
 E:\demoweb\Demo\Demo\obj\Debug\Demo.dll
 E:\demoweb\Demo\Demo\obj\Debug\Demo.pdb
+E:\save.code\demoweb\Demo\Demo\bin\Demo.dll.config
+E:\save.code\demoweb\Demo\Demo\bin\Demo.dll
+E:\save.code\demoweb\Demo\Demo\bin\Demo.pdb
+E:\save.code\demoweb\Demo\Demo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\save.code\demoweb\Demo\Demo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\save.code\demoweb\Demo\Demo\obj\Debug\Demo.csprojResolveAssemblyReference.cache
+E:\save.code\demoweb\Demo\Demo\obj\Debug\Demo.csproj.CoreCompileInputs.cache
+E:\save.code\demoweb\Demo\Demo\obj\Debug\Demo.dll
+E:\save.code\demoweb\Demo\Demo\obj\Debug\Demo.pdb

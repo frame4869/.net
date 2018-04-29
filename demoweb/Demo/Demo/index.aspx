@@ -10,7 +10,9 @@
     <form id="form1" runat="server">
         <div>
             &nbsp;ชื่อผู้ใช้:
-            <asp:TextBox ID="txt_number" runat="server"></asp:TextBox>
+            <asp:TextBox ID="txt_name" runat="server"></asp:TextBox>
+            <br />
+            รหัสผ่าน:<asp:TextBox ID="txt_password" runat="server"></asp:TextBox>
             <br />
             <asp:Button ID="Button1" runat="server" BorderStyle="Solid" OnClick="Button1_Click" Text="ตกลง" />
         </div>

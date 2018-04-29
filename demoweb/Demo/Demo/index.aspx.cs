@@ -17,6 +17,7 @@ namespace Demo
         {
 
             //ลูป while
+            /*
            int i = 1;
             int i2 = 1;
             while (i==1)
@@ -27,7 +28,7 @@ namespace Demo
                     break;
                 }
                 i2++;
-            }
+            }*/
 
 
             //ลูป 
@@ -46,7 +47,7 @@ namespace Demo
             Double c = (x5+0.00) / z;**/
 
             //ทดสอบlogin
-            /*
+            
             if (txt_name.Text == "เฟรม" )
             {
                 if (txt_password.Text == "1234")
@@ -73,7 +74,7 @@ namespace Demo
             {
                 Response.Write("มึงมั่วหนักแล้ว");
             }
-                */
+                
                
             
         }
